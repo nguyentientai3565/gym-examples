@@ -103,8 +103,10 @@ class NetworkEnv(gym.Env):
         self._traffic_state = np.empty((self.size, self.size), dtype=TrafficState)
         for i in range(self.size):
             for j in range(self.size):
-                state=random.randint(0,1)
-                self._traffic_state[i][j] = TrafficState(state=state, load = 0 if state == 0 else round(random.uniform(0, 1), 2))
+                #state=random.randint(0,1)
+                #self._traffic_state[i][j] = TrafficState(state=state, load = 0 if state == 0 else round(random.uniform(0, 1), 2))
+                self._traffic_state[i][j] = TrafficState(state= 1, load = 0.1)
+
         #self._traffic_state = self._traffic_state
         #while np.array_equal(self._traffic_demand, self._traffic_state):
             #self._traffic_state = self.np_random.integers(
@@ -128,7 +130,7 @@ class NetworkEnv(gym.Env):
         j = random.randint(0, self.size - 1)
         #i=0
         #j =4
-        print(i, j)
+        #print(i, j)
         
         # xet BS[i, j] neu = 0, no dang tat thi bat no len va giu tai cua no = 0
         if(self._traffic_state[i][j].load == 0 and self._traffic_state[i][j].state == 0):
@@ -276,7 +278,7 @@ class NetworkEnv(gym.Env):
         self._traffic_state[i][j].state = 0
 
         #
-        print(action)
+        #print(action)
         direction = self._action_to_direction[action]
 
         for index, act in enumerate(direction):
@@ -306,15 +308,16 @@ class NetworkEnv(gym.Env):
         n = 4.7 
         Pt = 20 #W
         Ps = 75 #w
-        total_Pmax = 25 * (Po + n * Pt) 
+        total_Pmax = 25 * (Po + 0.1 *n * Pt) 
+        P_matrix = np.zeros((5,5))
         if(terminated):
             for i in range(self.size):
                 for j in range(self.size):
-                    P_matrix = np.zeros((5,5))
-                    if(self._traffic_state[i][j].state == 0):
+                    if(self._traffic_state[i][j].state != 0):
                         P_matrix[i][j] = Po + n * self._traffic_state[i][j].load * Pt
                     else:
                         P_matrix[i][j] = Ps
+                    #print(P_matrix[i][j])
             reward = total_Pmax - np.sum(P_matrix) - 100*self._get_info()["traffic_loss"]
          
         observation = self._get_obs()
@@ -334,10 +337,15 @@ if __name__ == "__main__":
     print(object1.observation_space)
 
     object1.reset()
-    print(object1._get_obs())
-    print(object1._get_info())
+    #print(object1._get_obs())
+    #print(object1._get_info())
 
-    observation, reward, terminated, truncated, info = object1.step()
-    print(reward)
-    print(object1._get_obs())
-    print(object1._get_info())
+    #object1.step()
+    #observation, reward, terminated, truncated, info = object1.step()
+    #print(reward)
+    #print(object1._get_obs())
+    #print(object1._get_info())
+    for _ in range(24):
+        observation, reward, terminated, truncated, info = object1.step()
+        print("reward:", reward)
+        print("info:", info)
