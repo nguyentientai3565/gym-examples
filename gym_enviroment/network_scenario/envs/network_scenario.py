@@ -3,7 +3,10 @@ from gym import spaces
 import pygame
 import numpy as np
 import random
+import logging
+from datetime import datetime
 
+LOGGING_FILE = f"logs/app-{datetime.today().strftime('%Y-%m-%d')}.log"
 class TrafficState:
     def __init__(self, state, load):
         self.state = state
@@ -335,6 +338,7 @@ if __name__ == "__main__":
     object1 = NetworkEnv()
     print(object1.action_space)
     print(object1.observation_space)
+    logging.basicConfig(filename=LOGGING_FILE, level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
     object1.reset()
     #print(object1._get_obs())
@@ -345,7 +349,10 @@ if __name__ == "__main__":
     #print(reward)
     #print(object1._get_obs())
     #print(object1._get_info())
-    for _ in range(24):
-        observation, reward, terminated, truncated, info = object1.step()
-        print("reward:", reward)
-        print("info:", info)
+    for i in range(7):
+        logging.info(f"Day : {i+1}")
+        for _ in range(24):
+            observation, reward, terminated, truncated, info = object1.step()
+            logging.info(f"reward: {reward}")
+            logging.info(f"info: {info}")
+

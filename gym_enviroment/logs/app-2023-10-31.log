@@ -1,0 +1,343 @@
+2023-10-31 21:25:17,271 - root - INFO - Day : 1
+2023-10-31 21:25:17,272 - root - INFO - reward: 54.999999999999545
+2023-10-31 21:25:17,272 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,273 - root - INFO - reward: 109.99999999999955
+2023-10-31 21:25:17,273 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,274 - root - INFO - reward: 164.99999999999955
+2023-10-31 21:25:17,274 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,274 - root - INFO - reward: 219.99999999999955
+2023-10-31 21:25:17,275 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,276 - root - INFO - reward: 275.0
+2023-10-31 21:25:17,276 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,277 - root - INFO - reward: 329.99999999999994
+2023-10-31 21:25:17,277 - root - INFO - info: {'traffic_loss': 4.440892098500626e-16, 'traffic_coverage': 0.9999999999999998}
+2023-10-31 21:25:17,278 - root - INFO - reward: 385.0
+2023-10-31 21:25:17,278 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,279 - root - INFO - reward: 439.9999999999995
+2023-10-31 21:25:17,279 - root - INFO - info: {'traffic_loss': 4.440892098500626e-16, 'traffic_coverage': 0.9999999999999998}
+2023-10-31 21:25:17,280 - root - INFO - reward: 494.9999999999999
+2023-10-31 21:25:17,280 - root - INFO - info: {'traffic_loss': 8.881784197001252e-16, 'traffic_coverage': 0.9999999999999997}
+2023-10-31 21:25:17,281 - root - INFO - reward: 550.0
+2023-10-31 21:25:17,282 - root - INFO - info: {'traffic_loss': 4.440892098500626e-16, 'traffic_coverage': 0.9999999999999998}
+2023-10-31 21:25:17,283 - root - INFO - reward: 550.0
+2023-10-31 21:25:17,283 - root - INFO - info: {'traffic_loss': 4.440892098500626e-16, 'traffic_coverage': 0.9999999999999998}
+2023-10-31 21:25:17,284 - root - INFO - reward: 550.0
+2023-10-31 21:25:17,284 - root - INFO - info: {'traffic_loss': 4.440892098500626e-16, 'traffic_coverage': 0.9999999999999998}
+2023-10-31 21:25:17,285 - root - INFO - reward: 550.0
+2023-10-31 21:25:17,286 - root - INFO - info: {'traffic_loss': 4.440892098500626e-16, 'traffic_coverage': 0.9999999999999998}
+2023-10-31 21:25:17,287 - root - INFO - reward: 605.0
+2023-10-31 21:25:17,287 - root - INFO - info: {'traffic_loss': 4.440892098500626e-16, 'traffic_coverage': 0.9999999999999998}
+2023-10-31 21:25:17,288 - root - INFO - reward: 660.0000000000005
+2023-10-31 21:25:17,289 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,290 - root - INFO - reward: 660.0000000000005
+2023-10-31 21:25:17,290 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,291 - root - INFO - reward: 715.0000000000005
+2023-10-31 21:25:17,291 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,292 - root - INFO - reward: 715.0000000000005
+2023-10-31 21:25:17,292 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,293 - root - INFO - reward: 715.0000000000005
+2023-10-31 21:25:17,294 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,295 - root - INFO - reward: 715.0000000000005
+2023-10-31 21:25:17,295 - root - INFO - info: {'traffic_loss': 0.0, 'traffic_coverage': 1.0}
+2023-10-31 21:25:17,296 - root - INFO - reward: 768.5416666666666
+2023-10-31 21:25:17,296 - root - INFO - info: {'traffic_loss': 0.2430555555555558, 'traffic_coverage': 0.9027777777777777}
+2023-10-31 21:25:17,297 - root - INFO - reward: 768.5416666666666
+2023-10-31 21:25:17,297 - root - INFO - info: {'traffic_loss': 0.2430555555555558, 'traffic_coverage': 0.9027777777777777}
+2023-10-31 21:25:17,298 - root - INFO - reward: 768.5416666666666
+2023-10-31 21:25:17,299 - root - INFO - info: {'traffic_loss': 0.2430555555555558, 'traffic_coverage': 0.9027777777777777}
+2023-10-31 21:25:17,300 - root - INFO - reward: 768.5416666666666
+2023-10-31 21:25:17,300 - root - INFO - info: {'traffic_loss': 0.2430555555555558, 'traffic_coverage': 0.9027777777777777}
+2023-10-31 21:25:17,300 - root - INFO - Day : 2
+2023-10-31 21:25:17,301 - root - INFO - reward: 768.5416666666666
+2023-10-31 21:25:17,301 - root - INFO - info: {'traffic_loss': 0.2430555555555558, 'traffic_coverage': 0.9027777777777777}
+2023-10-31 21:25:17,302 - root - INFO - reward: 823.5416666666665
+2023-10-31 21:25:17,303 - root - INFO - info: {'traffic_loss': 0.24305555555555625, 'traffic_coverage': 0.9027777777777776}
+2023-10-31 21:25:17,303 - root - INFO - reward: 823.5416666666665
+2023-10-31 21:25:17,304 - root - INFO - info: {'traffic_loss': 0.24305555555555625, 'traffic_coverage': 0.9027777777777776}
+2023-10-31 21:25:17,305 - root - INFO - reward: 823.5416666666665
+2023-10-31 21:25:17,305 - root - INFO - info: {'traffic_loss': 0.24305555555555625, 'traffic_coverage': 0.9027777777777776}
+2023-10-31 21:25:17,306 - root - INFO - reward: 823.5416666666665
+2023-10-31 21:25:17,307 - root - INFO - info: {'traffic_loss': 0.24305555555555625, 'traffic_coverage': 0.9027777777777776}
+2023-10-31 21:25:17,307 - root - INFO - reward: 823.5416666666665
+2023-10-31 21:25:17,308 - root - INFO - info: {'traffic_loss': 0.24305555555555625, 'traffic_coverage': 0.9027777777777776}
+2023-10-31 21:25:17,308 - root - INFO - reward: 823.5416666666665
+2023-10-31 21:25:17,309 - root - INFO - info: {'traffic_loss': 0.24305555555555625, 'traffic_coverage': 0.9027777777777776}
+2023-10-31 21:25:17,309 - root - INFO - reward: 823.5416666666665
+2023-10-31 21:25:17,309 - root - INFO - info: {'traffic_loss': 0.24305555555555625, 'traffic_coverage': 0.9027777777777776}
+2023-10-31 21:25:17,310 - root - INFO - reward: 878.5416666666671
+2023-10-31 21:25:17,310 - root - INFO - info: {'traffic_loss': 0.2430555555555558, 'traffic_coverage': 0.9027777777777777}
+2023-10-31 21:25:17,311 - root - INFO - reward: 932.0833333333336
+2023-10-31 21:25:17,311 - root - INFO - info: {'traffic_loss': 0.4861111111111116, 'traffic_coverage': 0.8055555555555554}
+2023-10-31 21:25:17,311 - root - INFO - reward: 932.0833333333336
+2023-10-31 21:25:17,311 - root - INFO - info: {'traffic_loss': 0.4861111111111116, 'traffic_coverage': 0.8055555555555554}
+2023-10-31 21:25:17,312 - root - INFO - reward: 932.0833333333336
+2023-10-31 21:25:17,312 - root - INFO - info: {'traffic_loss': 0.4861111111111116, 'traffic_coverage': 0.8055555555555554}
+2023-10-31 21:25:17,313 - root - INFO - reward: 932.0833333333336
+2023-10-31 21:25:17,313 - root - INFO - info: {'traffic_loss': 0.4861111111111116, 'traffic_coverage': 0.8055555555555554}
+2023-10-31 21:25:17,314 - root - INFO - reward: 932.0833333333336
+2023-10-31 21:25:17,314 - root - INFO - info: {'traffic_loss': 0.4861111111111116, 'traffic_coverage': 0.8055555555555554}
+2023-10-31 21:25:17,315 - root - INFO - reward: 932.0833333333336
+2023-10-31 21:25:17,315 - root - INFO - info: {'traffic_loss': 0.4861111111111116, 'traffic_coverage': 0.8055555555555554}
+2023-10-31 21:25:17,316 - root - INFO - reward: 985.7166666666669
+2023-10-31 21:25:17,316 - root - INFO - info: {'traffic_loss': 0.7138888888888892, 'traffic_coverage': 0.7144444444444443}
+2023-10-31 21:25:17,317 - root - INFO - reward: 1038.9583333333333
+2023-10-31 21:25:17,317 - root - INFO - info: {'traffic_loss': 1.0069444444444449, 'traffic_coverage': 0.5972222222222221}
+2023-10-31 21:25:17,318 - root - INFO - reward: 1038.9583333333333
+2023-10-31 21:25:17,318 - root - INFO - info: {'traffic_loss': 1.0069444444444449, 'traffic_coverage': 0.5972222222222221}
+2023-10-31 21:25:17,319 - root - INFO - reward: 1038.9583333333333
+2023-10-31 21:25:17,320 - root - INFO - info: {'traffic_loss': 1.0069444444444449, 'traffic_coverage': 0.5972222222222221}
+2023-10-31 21:25:17,321 - root - INFO - reward: 1038.9583333333333
+2023-10-31 21:25:17,321 - root - INFO - info: {'traffic_loss': 1.0069444444444449, 'traffic_coverage': 0.5972222222222221}
+2023-10-31 21:25:17,322 - root - INFO - reward: 1038.9583333333333
+2023-10-31 21:25:17,322 - root - INFO - info: {'traffic_loss': 1.0069444444444449, 'traffic_coverage': 0.5972222222222221}
+2023-10-31 21:25:17,322 - root - INFO - reward: 1038.9583333333333
+2023-10-31 21:25:17,323 - root - INFO - info: {'traffic_loss': 1.0069444444444449, 'traffic_coverage': 0.5972222222222221}
+2023-10-31 21:25:17,323 - root - INFO - reward: 1093.9583333333337
+2023-10-31 21:25:17,323 - root - INFO - info: {'traffic_loss': 1.0069444444444449, 'traffic_coverage': 0.5972222222222221}
+2023-10-31 21:25:17,324 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,324 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,324 - root - INFO - Day : 3
+2023-10-31 21:25:17,325 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,325 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,325 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,325 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,326 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,326 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,327 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,327 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,327 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,327 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,328 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,328 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,329 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,329 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,330 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,330 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,331 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,331 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,332 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,332 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,333 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,333 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,334 - root - INFO - reward: 1147.0916666666667
+2023-10-31 21:25:17,334 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,335 - root - INFO - reward: 1202.0916666666667
+2023-10-31 21:25:17,336 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,337 - root - INFO - reward: 1202.0916666666667
+2023-10-31 21:25:17,337 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,338 - root - INFO - reward: 1202.0916666666667
+2023-10-31 21:25:17,338 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,339 - root - INFO - reward: 1202.0916666666667
+2023-10-31 21:25:17,339 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,339 - root - INFO - reward: 1202.0916666666667
+2023-10-31 21:25:17,339 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,340 - root - INFO - reward: 1202.0916666666667
+2023-10-31 21:25:17,340 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,341 - root - INFO - reward: 1202.0916666666667
+2023-10-31 21:25:17,341 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,341 - root - INFO - reward: 1202.0916666666667
+2023-10-31 21:25:17,342 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,342 - root - INFO - reward: 1202.0916666666667
+2023-10-31 21:25:17,342 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,343 - root - INFO - reward: 1202.0916666666667
+2023-10-31 21:25:17,343 - root - INFO - info: {'traffic_loss': 1.318055555555556, 'traffic_coverage': 0.4727777777777777}
+2023-10-31 21:25:17,344 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,344 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,344 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,344 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,344 - root - INFO - Day : 4
+2023-10-31 21:25:17,345 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,345 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,346 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,346 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,347 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,347 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,348 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,349 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,349 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,350 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,350 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,350 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,351 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,351 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,352 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,352 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,353 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,353 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,354 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,354 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,355 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,355 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,356 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,356 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,357 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,357 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,358 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,358 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,359 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,359 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,360 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,360 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,361 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,361 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,362 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,362 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,363 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,363 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,364 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,364 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,365 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,365 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,365 - root - INFO - reward: 1254.5916666666667
+2023-10-31 21:25:17,366 - root - INFO - info: {'traffic_loss': 1.7347222222222225, 'traffic_coverage': 0.30611111111111106}
+2023-10-31 21:25:17,366 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,366 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,367 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,367 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,367 - root - INFO - Day : 5
+2023-10-31 21:25:17,368 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,368 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,368 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,368 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,369 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,369 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,370 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,370 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,370 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,371 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,371 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,371 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,372 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,372 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,372 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,373 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,373 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,373 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,374 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,374 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,375 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,375 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,375 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,376 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,376 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,376 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,377 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,377 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,378 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,378 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,378 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,378 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,379 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,379 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,380 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,380 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,381 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,381 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,381 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,382 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,382 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,383 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,383 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,383 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,384 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,384 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,384 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,384 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,385 - root - INFO - Day : 6
+2023-10-31 21:25:17,385 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,385 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,386 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,386 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,386 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,387 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,387 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,387 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,388 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,388 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,388 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,389 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,389 - root - INFO - reward: 1306.4583333333335
+2023-10-31 21:25:17,389 - root - INFO - info: {'traffic_loss': 2.2569444444444446, 'traffic_coverage': 0.09722222222222221}
+2023-10-31 21:25:17,390 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,390 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,390 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,391 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,391 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,391 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,392 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,392 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,393 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,393 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,393 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,393 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,394 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,394 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,395 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,395 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,395 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,395 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,396 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,396 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,397 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,397 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,397 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,397 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,398 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,398 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,399 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,399 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,400 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,400 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,400 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,401 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,401 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,401 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,401 - root - INFO - Day : 7
+2023-10-31 21:25:17,402 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,402 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,403 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,403 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,403 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,403 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,404 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,404 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,405 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,405 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,406 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,406 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,406 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,407 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,407 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,407 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,408 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,408 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,409 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,409 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,409 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,410 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,410 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,410 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,411 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,411 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,412 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,412 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,412 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,413 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,413 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,414 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,414 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,414 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,415 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,415 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,416 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,416 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,416 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,416 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,417 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,417 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,418 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,418 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,419 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,419 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
+2023-10-31 21:25:17,420 - root - INFO - reward: 1360.0
+2023-10-31 21:25:17,420 - root - INFO - info: {'traffic_loss': 2.5000000000000004, 'traffic_coverage': 0.0}
